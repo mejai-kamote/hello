@@ -3,7 +3,7 @@
 int main()
 {
     printf("Hello Git!");
-    printf("I'm adding a new line");
+    printf("I'm addin a new line");
 
     return 0;
 }  
