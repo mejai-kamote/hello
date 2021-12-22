@@ -2,8 +2,10 @@
 
 int main()
 {
-    printf("Hello Git!");
-    printf("I'm addin a new line");
+    printf("Hello Git!\n");
+    printf("I'm addin a new line\n");
+
+    printf("Branching Feature\n");
 
     return 0;
 }  
